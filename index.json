@@ -1,0 +1,54 @@
+{
+  "brand": "PEPS",
+  "hero": {
+    "title": "Votre partenaire énergie",
+    "subtitle": "Des solutions fiables et durables pour vos projets.",
+    "image": "./assets/hero.png"
+  },
+  "about": {
+    "text": "PEPS accompagne particuliers et professionnels avec sérieux et réactivité. Notre mission : rendre l'énergie plus simple et plus efficace.",
+    "image": "./assets/about.png"
+  },
+  "values": [
+    "Qualité",
+    "Réactivité",
+    "Proximité"
+  ],
+  "services": [
+    {
+      "title": "Installation",
+      "description": "Mise en place complète et sécurisée de vos équipements.",
+      "image": ""
+    },
+    {
+      "title": "Maintenance",
+      "description": "Suivi régulier, optimisation et dépannage rapide.",
+      "image": ""
+    },
+    {
+      "title": "Conseil & expertise",
+      "description": "Audit, recommandations et accompagnement sur-mesure.",
+      "image": ""
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Service impeccable et équipe très réactive !",
+      "author": "Claire M.",
+      "role": "Particulier"
+    },
+    {
+      "quote": "PEPS nous accompagne depuis 5 ans, top.",
+      "author": "Marc L.",
+      "role": "Entreprise"
+    }
+  ],
+  "contact": {
+    "email": "contact@example.com",
+    "phone": "01 00 00 00 00",
+    "address": "123 rue Exemple, 75001 Paris"
+  },
+  "footer": {
+    "tagline": "Des solutions d'énergie au service de vos projets."
+  }
+}
