@@ -1,4 +1,3 @@
-```js
 export default function Hero() {
 return (
 <section className="container grid grid-cols-1 md:grid-cols-2 gap-8 items-center py-12">
@@ -17,4 +16,3 @@ return (
 </section>
 )
 }
-```
