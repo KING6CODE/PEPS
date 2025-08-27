@@ -1,4 +1,3 @@
-```js
 const services = [
 { title: 'Installation', desc: 'Lorem ipsum dolor sit amet, consectetur' },
 { title: 'Maintenance', desc: 'Lorem ipsum dolor sit amet, consectetur' },
@@ -22,4 +21,3 @@ return (
 </section>
 )
 }
-```
