@@ -1,4 +1,3 @@
-```js
 export default function Header() {
 return (
 <header className="py-8">
@@ -20,4 +19,3 @@ return (
 </header>
 )
 }
-```
