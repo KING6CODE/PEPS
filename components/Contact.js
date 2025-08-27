@@ -1,4 +1,3 @@
-```js
 export default function Contact() {
 return (
 <section id="contact" className="container py-12 grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -37,4 +36,3 @@ return (
 </section>
 )
 }
-```
