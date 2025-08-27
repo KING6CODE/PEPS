@@ -1,4 +1,3 @@
-```js
 export default function About() {
 return (
 <section id="about" className="container py-12 grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
@@ -22,4 +21,3 @@ return (
 </section>
 )
 }
-```
